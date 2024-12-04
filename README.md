@@ -1,11 +1,10 @@
 # TikZ Collection
 
 
-<div align="center">
-  ![GitHub Repo Size](https://img.shields.io/github/repo-size/kaicheng001/TikZ-Collection)
-  ![GitHub License](https://img.shields.io/github/license/kaicheng001/TikZ-Collection)
-  ![GitHub stars](https://img.shields.io/github/stars/kaicheng001/TikZ-Collection?style=social)
-</div>
+  [![GitHub Repo Size](https://img.shields.io/badge/Repo%20Size-View-lightblue)](https://github.com/kaicheng001/TikZ-Collection)&nbsp;
+  [![GitHub License](https://img.shields.io/badge/License-MIT-b31b1b.svg)](https://github.com/kaicheng001/TikZ-Collection/blob/main/LICENSE)&nbsp;
+  [![GitHub stars](https://img.shields.io/github/stars/kaicheng001/TikZ-Collection?style=social)](https://github.com/kaicheng001/TikZ-Collection?style=social)
+
 
 
 
