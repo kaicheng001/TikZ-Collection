@@ -196,15 +196,15 @@ Venn diagrams are useful for illustrating logical relationships between differen
 
 - **Basic Venn Diagram**
 
-  ![Basic Venn Diagram](images/venn/basic_venn.png)
+  ![Basic Venn Diagram](images/diagrams/basic_venn.png)
 
-  [View Code](examples/venn/basic_venn.tex)
+  [View Code](examples/diagrams/basic_venn.tex)
 
 - **Advanced Venn Diagram**
 
-  ![Advanced Venn Diagram](images/venn/advanced_venn.png)
+  ![Advanced Venn Diagram](images/diagrams/advanced_venn.png)
 
-  [View Code](examples/venn/advanced_venn.tex)
+  [View Code](examples/diagrams/advanced_venn.tex)
 
 ### Plots
 
