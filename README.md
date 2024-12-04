@@ -26,7 +26,6 @@ A comprehensive collection of various TikZ diagrams, plots, and examples designe
   - [Plots](#plots)
   - [Diagrams](#diagrams)
 - [Templates](#templates)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -256,24 +255,6 @@ Use our LaTeX templates to quickly integrate TikZ diagrams into your documents.
 
   [Download](templates/advanced_template.tex)
 
-
----
-
-## Screenshots
-
-Below are some screenshots showcasing the variety and quality of diagrams available in this collection.
-
-### Venn Diagrams
-
-![Basic Venn](images/venn/basic_venn.png) ![Advanced Venn](images/venn/advanced_venn.png)
-
-### Plots
-
-![Line Plot](images/plots/line_plot.png) ![Bar Plot](images/plots/bar_plot.png)
-
-### Diagrams
-
-![Flowchart](images/diagrams/flowchart.png) ![Mind Map](images/diagrams/mindmap.png)
 
 ---
 
